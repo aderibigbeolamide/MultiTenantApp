@@ -1,0 +1,8 @@
+/home/fullstackbeast/Desktop/Olamide/MultiTenantApp/obj/Debug/net8.0/MultiTenantApp.csproj.AssemblyReference.cache
+/home/fullstackbeast/Desktop/Olamide/MultiTenantApp/obj/Debug/net8.0/MultiTenantApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/fullstackbeast/Desktop/Olamide/MultiTenantApp/obj/Debug/net8.0/MultiTenantApp.AssemblyInfoInputs.cache
+/home/fullstackbeast/Desktop/Olamide/MultiTenantApp/obj/Debug/net8.0/MultiTenantApp.AssemblyInfo.cs
+/home/fullstackbeast/Desktop/Olamide/MultiTenantApp/obj/Debug/net8.0/MultiTenantApp.csproj.CoreCompileInputs.cache
+/home/fullstackbeast/Desktop/Olamide/MultiTenantApp/obj/Debug/net8.0/MultiTenantApp.MvcApplicationPartsAssemblyInfo.cs
+/home/fullstackbeast/Desktop/Olamide/MultiTenantApp/obj/Debug/net8.0/MultiTenantApp.MvcApplicationPartsAssemblyInfo.cache
+/home/fullstackbeast/Desktop/Olamide/MultiTenantApp/obj/Debug/net8.0/MultiTenantApp.sourcelink.json
